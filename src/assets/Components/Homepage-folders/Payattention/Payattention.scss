@@ -1,0 +1,39 @@
+.Pa-carousel{
+
+  
+    padding-bottom: 20px;
+    img{
+      
+        width: 359px;
+        height: 479px;
+      
+        margin-left: 30px;
+        margin-bottom: 30px;
+         border-radius: 10px;
+       
+    }
+}
+.payattention-text{
+  line-height: 2;
+    margin: 30px;
+    .pa-h2{
+        font-size: 3rem;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .pa-p{
+        color: #767676;
+        font-family: "corpo-s-text", Arial, Verdana, Helvetica, sans-serif;
+    }
+}
+
+
+
+  
+  .swiper-pagination-bullet {
+    background-color: #746e6e; 
+  }
+  
+  .swiper-pagination-bullet-active {
+    background-color: #585858;
+  }
+  
